@@ -1,0 +1,281 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.3.13)  24 APR 2023 11:56
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**body_John_Doe.tex
+(./body_John_Doe.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21>
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 D
+     ear Dr.,I hope this letter finds you in good health and high spirits. I...
+
+? 
+Missing character: There is no D in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1 ...rate with your esteemed organization, Acme_
+                                                  Corporation, on the upcomi...
+
+? 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 1.
+)
+*
+! Missing $ inserted.
+<inserted text> 
+                $
+<*> 
+    
+? 
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--0
+[]
+ []
+
+
+Overfull \hbox (7729.92134pt too wide) in paragraph at lines 1--0
+[]\OML/cmm/m/it/10 orporation; ontheupcomingsustainable[]nergyproject:Yourexper
+tiseandexperienceinthefieldofrenewable[]nergyareinvaluable; andwebelievethatthi
+spartnershipwillnotonlystrengthenourrespectiveorganizationsbutalsocontributetot
+hegrowthanddevelopmentoftheclean[]nergyindustry:Overthepastfewmonths; ourteamat
+Alpha[]nchasbeenworkingdiligentlytoprepareforthecommencementoftheproject:Wehave
+conductedextensiveresearchandanalysistoensurethatourapproachalignswiththegoalsa
+ndobjectivesoutlinedbybothparties:Furthermore; wehavedevelopedacomprehensivepla
+nthatoutlinesthekeymilestones; deliverables; andresourcesrequiredtosuccessfully
+executetheproject:Astheprojectlead; Iwouldliketoproposeameetingbetweenrepresent
+ativesfrombothourorganizationstodiscussthedetailsofthecollaborationandaddressan
+yquestionsorconcernsthatmayarise:Thismeetingwillprovideanopportunityforallstake
+holderstogainabetterunderstandingofeachother[]sexpectationsandestablishastrongf
+oundationforasuccessfulpartnership:TheproposeddateforthemeetingisJune[]\OT1/cmr
+/m/n/10 0\OML/cmm/m/it/10 th; andthevenuewillbeourmainofficelocatedat\OT1/cmr/m
+/n/10 123[]\OML/cmm/m/it/10 ain[]t:Ifthisdateisnotconvenientforyou; pleaseletus
+knowatyourearliestconvenience; andwewillmakethenecessaryarrangementstoreschedul
+e:Additionally; Iwouldliketotakethisopportunitytointroduceyoutoourprojectteam:O
+urteamcompriseshighlyskilledprofessionalswithdiversebackgroundsandexpertiseinth
+erenewable[]nergyindustry:Theyareexcitedtobeworkingalongsideyourteamandarecommi
+ttedtodeliveringexceptionalresultsthroughouttheproject:Welookforwardtoyourrespo
+nseandtheopportunitytofurtherdiscussthedetailsofourcollaboration:Pleasefeelfree
+tocontactmedirectlyviaphoneat\OT1/cmr/m/n/10 (555)111 \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (1438.75421pt too wide) in paragraph at lines 1--0
+\OT1/cmr/m/n/10 1111\OML/cmm/m/it/10 oremailatjohn:doe\OT1/cmr/m/n/10 @\OML/cmm
+/m/it/10 example:comshouldyouhaveanyquestionsorrequireadditionalinformation:Tha
+nkyouonceagainforyoursupportandpartnership:Weareconfidentthatourcollaborationwi
+llbearesoundingsuccessandleadtoabrightandprosperousfutureforbothourorganization
+s:Sincerely; \OT1/cmr/m/n/10 [\OML/cmm/m/it/10 YourName\OT1/cmr/m/n/10 ][\OML/c
+mm/m/it/10 YourTitle\OT1/cmr/m/n/10 ]\OML/cmm/m/it/10 Alpha[]nc$ 
+ []
+
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end'

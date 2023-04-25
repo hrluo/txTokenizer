@@ -1,0 +1,8 @@
+clean_energy
+technology
+automotive
+biomedical
+telecom
+manufacturing
+AI
+

@@ -1,0 +1,8 @@
+sustainable_energy
+software_development
+automotive_design
+biotechnology
+telecommunications
+manufacturing
+data_science
+

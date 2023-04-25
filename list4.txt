@@ -1,0 +1,8 @@
+renewable_energy
+software_engineering
+automotive_engineering
+biomedical_research
+5G_technology
+industrial_automation
+machine_learning
+
